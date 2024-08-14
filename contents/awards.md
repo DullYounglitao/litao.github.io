@@ -1,9 +1,7 @@
-- First-prize Academic Scholarship, 2023.
-
-- Freshman Academic Scholarship, 2022.
-
-- Excellent Graduation Project of Jiangsu Province, 2022.
-
-- First-prize Enterprise Scholarship, 2021.
-
-- First-prize Academic Scholarship, 2019.
+1. 获得2024睿抗机器人开发者大赛（RAICOM）CAIP编程技能国家一等奖
+2. 获得第十五届蓝桥杯大赛软件类国家二等奖。
+3. 通过CET6。
+4. 获得青岛大学优秀二等奖学金和三等奖学金。
+5. 获得青岛大学优秀学生称号。
+6. 获得青岛大学优秀志愿者。
+7. 获得山东省大学科技创新大赛三等奖
